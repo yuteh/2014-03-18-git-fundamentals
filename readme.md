@@ -8,3 +8,5 @@ Now do some more changes after initial commit
 great!
 
 Another line
+
+changes after adding tag
